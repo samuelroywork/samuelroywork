@@ -2,8 +2,7 @@
 
 - Technology Enthusiast living in Aachen, Germany.
 - I’m interested in Blockchain technologies and Digitalization.
-- M.Sc. in Software Systems Engineering from RWTH Aachen University.
-- I am an engineer with the passion to find solutions to problems and to achieve perfection in everthing I do. 
+- M.Sc. in Software Systems Engineering from RWTH Aachen University. 
 - 2022 Goals: To contribute to opens source projects 
 - Fun fact: I love to play piano and guitar
 
