@@ -1,4 +1,4 @@
-### Hi there👋, I'm Samuel Roy
+# Hi there👋, I'm Samuel Roy
 
 - Technology Enthusiast living in Aachen, Germany.
 - I’m interested in Blockchain technologies and Digitalization.
@@ -7,15 +7,15 @@
 - 2022 Goals: To contribute to opens source projects 
 - Fun fact: I love to play piano and guitar
 
-### Connect with me:
+## Connect with me:
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 
 <br />
 
-### Languages and Tools:
+## Languages and Tools:
 
-### Things I've Worked on:
+## Things I've Worked on:
 
 <center>
 <table>
