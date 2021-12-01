@@ -2,20 +2,21 @@
 
 - Technology Enthusiast living in Aachen, Germany.
 - I’m interested in Blockchain technologies and Digitalization.
-- M.Sc. in Software Systems Engineering from RWTH Aachen University. 
+- M.Sc. in Software Systems Engineering from RWTH Aachen University.
+- I am an engineer with the passion to find solutions to problems and to achieve perfection in everthing I do. 
 - 2022 Goals: To contribute to opens source projects 
 - Fun fact: I love to play piano and guitar
 
-## Connect with me:
+## 📑Connect with me:
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 
 <br />
 
-## Languages and Tools:
-<img src="https://docs.soliditylang.org/en/v0.8.7/_images/logo.svg" alt="Solidity logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Solidity logo" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Solidity logo" width="50" height="50">
+## 🧰 Languages and Tools:
+<img src="https://docs.soliditylang.org/en/v0.8.7/_images/logo.svg" alt="Solidity logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Solidity logo" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Solidity logo" width="50" height="50">
 
-## Things I've Worked on:
+## 👷‍♂️ Things I've Worked on:
 
 <center>
 <table>
