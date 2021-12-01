@@ -7,15 +7,16 @@
 - 2022 Goals: To contribute to opens source projects 
 - Fun fact: I love to play piano and guitar
 
-## Connect with me:
+## 📑Connect with me:
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 
 <br />
 
-## Languages and Tools:
-
-## Things I've Worked on:
+## 🧰 Languages and Tools:
+<img src="https://docs.soliditylang.org/en/v0.8.7/_images/logo.svg" alt="Solidity logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Solidity logo" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Solidity logo" width="50" height="50">
+https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg
+## 👷‍♂️ Things I've Worked on:
 
 <center>
 <table>
