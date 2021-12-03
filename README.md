@@ -42,9 +42,9 @@
       <td><a href=""><b>Screenshots</b></td>
     </tr>
     <tr>
-      <td><a href=""><b>2048-plus</b></a></td>
-      <td>2048 game controllred by head tracking.</td>
-      <td>iOS, SpriteKit, ARKit</td>
+      <td><a href=""><b> DPLL SAT solver</b></a></td>
+      <td> A SAT solver for propositional logic by following the DPLL architecture. </td>
+      <td>Python</td>
       <td></td>
     </tr>
   </tbody>
