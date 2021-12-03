@@ -22,7 +22,8 @@
       <td><b>Project</b></td>
       <td><b>Description</b></td>
       <td><b>Techonoloiges</b></td>
-      <td><b></b></td>
+      <td><b>Info</b></td>
+      <td><b>Hosted site</b></td>
     </tr>
   </thead>
   <tbody>
@@ -31,25 +32,30 @@
       <td>Decentralized Application that tracks carbon footprint across automotive supply chain and payment of carbon price using blockchian </td>
       <td>Ethereum, React, Node.js, Truffle framework, web3.js, DID(SSID)</td>
       <td><a href="https://www.youtube.com/watch?v=FgfQ_ImdZ9o"><b>-Video Demonstration</b></td>
+      <td><a href="https://cold-bush-9716.on.fleek.co/"><b>IPFS hosted link</b></td>
     </tr>
     <tr>
       <td><a href=""><b>Chain-RocketChat</b></a></td>
       <td>Storing RocketChat messages on Blockchain</td>
       <td>Quoroum, web3.js, Docker</td>
       <td><a href=""><b>Screenshots</b></td>
+       <td><a href=""><b></b></td>
     </tr>
-    <tr>
-      <td><a href="https://github.com/samuelroywork/DPLL-SAT-solver"><b> DPLL SAT solver</b></a></td>
-      <td> A SAT solver for propositional logic by following the DPLL architecture. </td>
-      <td>Python</td>
-      <td></td>
     </tr>
      <tr>
       <td><a href=""><b> Poly-DropDrive</b></a></td>
       <td> A web 3.0 online drive to store documents using blockchain</td>
       <td>Polygon, React, Node.js, Truffle framework, web3.js </td>
       <td></td>
+       <td><a href=""><b></b></td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/samuelroywork/DPLL-SAT-solver"><b> DPLL SAT solver</b></a></td>
+      <td> A SAT solver for propositional logic by following the DPLL architecture. </td>
+      <td>Python</td>
+      <td></td>
+      <td><a href=""><b></b></td>
+    
   </tbody>
 </table>
 </center>
