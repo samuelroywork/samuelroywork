@@ -32,6 +32,7 @@
       <td>Ethereum, React, Node.js, Truffle framework, web3.js, DID(SSID)</td>
       <td><a href="https://www.youtube.com/watch?v=FgfQ_ImdZ9o"><b>Video Demonstration</b></td>
         <td><a href="https://cold-bush-9716.on.fleek.co/"><b>IPFS Hosting</b></td>
+    </tr>
     
     <tr>
       <td><a href=""><b>Chain-RocketChat</b></a></td>
