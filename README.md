@@ -13,9 +13,6 @@
 
 <br />
 
-## Languages and Tools:
-<img src="https://docs.soliditylang.org/en/v0.8.7/_images/logo.svg" alt="Solidity logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Solidity logo" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Solidity logo" width="50" height="50">
-
 ## Things I've Worked on:
 
 <center>
@@ -55,6 +52,11 @@
 
 [linkedin]: https://linkedin.com/in/samuel-roy-b10252192
 [github]: https://github.com/samuelroywork/samuelroywork
+
+
+## Languages and Tools:
+<img src="https://docs.soliditylang.org/en/v0.8.7/_images/logo.svg" alt="Solidity logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Solidity logo" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Solidity logo" width="50" height="50">
+
 
 <!---
 samuelroywork/samuelroywork is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
