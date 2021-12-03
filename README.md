@@ -30,9 +30,9 @@
       <td><a href="https://github.com/samuelroywork/Master-thesis-implementation"><b>Master Thesis Implementation</b></a></td>
       <td>Decentralized Application that tracks carbon footprint across automotive supply chain and payment of carbon price using blockchian </td>
       <td>Ethereum, React, Node.js, Truffle framework, web3.js, DID(SSID)</td>
-      <td><tr><td><a href="https://www.youtube.com/watch?v=FgfQ_ImdZ9o"><b>Video Demonstration</b></td>
+      <td><a href="https://www.youtube.com/watch?v=FgfQ_ImdZ9o"><b>Video Demonstration</b></td>
         <td><a href="https://cold-bush-9716.on.fleek.co/"><b>IPFS Hosting</b></td>
-    </tr>
+    
     <tr>
       <td><a href=""><b>Chain-RocketChat</b></a></td>
       <td>Storing RocketChat messages on Blockchain</td>
