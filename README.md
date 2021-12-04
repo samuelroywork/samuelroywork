@@ -38,7 +38,7 @@
       <td><a href=""><b>Chain-Rocket.Chat</b></a></td>
       <td>Storing RocketChat messages on Blockchain</td>
       <td>Quoroum, web3.js, Docker</td>
-      <td><a href=""><b>Screenshots</b></td>
+      <td><a href="https://github.com/samuelroywork/Chain-Rocket.Chat/blob/main/architecture.PNG"><b>Screenshots</b></td>
        <td><a href=""><b></b></td>
     </tr>
     </tr>
