@@ -1,3 +1,5 @@
+<img src=”https://user-images.githubusercontent.com/45981160/146879232-56e9d457-585b-4613-8c5c-58a4860e7750.png" alt=”my banner”>
+                                                                                                                
 # Hello 👋, I'm Samuel Roy
 
 - Technology Enthusiast living in Aachen, Germany.
