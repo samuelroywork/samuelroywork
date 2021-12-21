@@ -66,7 +66,7 @@
 
 [linkedin]: https://linkedin.com/in/samuel-roy-b10252192
 [github]: https://github.com/samuelroywork/samuelroywork
-[website]:samuelroywork.github.io 
+[website]:https://samuelroywork.github.io/
 
 ## Languages and Tools:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelroywork&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
