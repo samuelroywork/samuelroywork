@@ -21,7 +21,7 @@
     <tr border: none;>
       <td><b>Project</b></td>
       <td><b>Description</b></td>
-      <td><b>Techonoloiges</b></td>
+      <td><b>Technoloiges</b></td>
       <td><b>Info</b></td>
       <td><b>Hosted site</b></td>
     </tr>
