@@ -67,7 +67,8 @@
 
 
 ## Languages and Tools:
-<img src="https://docs.soliditylang.org/en/v0.8.7/_images/logo.svg" alt="Solidity logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Solidity logo" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Solidity logo" width="50" height="50">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelroywork&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!---
