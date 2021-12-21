@@ -77,7 +77,7 @@
    <tr>
       <td><a href=""><b> Bachelor Thesis</b></a></td>
       <td> Solving sparce linear system using iterative solvers on GPU for improved image reconstruction</td>
-      <td>Python</td>
+      <td>C++</td>
       <td></td>
       <td><a href=""><b></b></td>
      </tr>
