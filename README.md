@@ -1,4 +1,4 @@
-# Hi there👋, I'm Samuel Roy
+# Hello 👋, I'm Samuel Roy
 
 - Technology Enthusiast living in Aachen, Germany.
 - I’m interested in Blockchain technologies,Digitalization and Indstry 4.0
