@@ -1,7 +1,4 @@
-<p align="center">
-  <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img width=”200" height=”200" src="https://user-images.githubusercontent.com/45981160/146882987-964db28b-30d5-4536-b0d5-b67d9952213f.png" alt="my banner"></a>
-</p>
-
+![Untitled](https://user-images.githubusercontent.com/45981160/146885963-0eda5d95-cf6e-4ae2-87a6-1a508ce688f8.png)
 
 # Hi there👋, I'm Samuel Roy
 
