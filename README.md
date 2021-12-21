@@ -8,9 +8,11 @@
 - Fun fact: I love to play piano and guitar
 
 ## Connect with me:
-<p>[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-  <a href="https://github.com/samuelroywork/samuelroywork" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://linkedin.com/in/samuel-roy-b10252192" target="_blank"><img alt="LinkedIn" src="https://user-images.githubusercontent.com/45981160/146876266-bd2dae14-3ef8-4b19-bda8-d852a8daf8d0.jpg)" /></a> 
-</p>
+[<img align="left" alt="website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="samuelroywork | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+<br />
 
 <br />
 
