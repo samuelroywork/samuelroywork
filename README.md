@@ -41,7 +41,7 @@
     <tr>
       <td><a href=""><b> NFT Marketplace</b></a></td>
       <td> An NFT market place </td>
-      <td>Python</td>
+      <td>Ethereum, React, Node.js, Truffle framework, web3.js</td>
       <td></td>
       <td><a href=""><b></b></td>
      </tr>
