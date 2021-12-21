@@ -10,9 +10,8 @@
 ## Connect with me:
 [<img align="left" alt="website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="samuelroywork | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 
-
-<br />
 
 <br />
 
@@ -67,7 +66,7 @@
 
 [linkedin]: https://linkedin.com/in/samuel-roy-b10252192
 [github]: https://github.com/samuelroywork/samuelroywork
-
+[website]:samuelroywork.github.io 
 
 ## Languages and Tools:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelroywork&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
