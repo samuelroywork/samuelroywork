@@ -75,7 +75,7 @@
       <td><a href=""><b></b></td>
   </tr>
    <tr>
-      <td><a href=""><b> Bachelor Thesis</b></a></td>
+      <td><a href="https://github.com/samuelroywork/bachelor-thesis"><b> Bachelor Thesis</b></a></td>
       <td> Solving sparce linear system using iterative solvers on GPU for improved image reconstruction</td>
       <td>C++</td>
       <td></td>
