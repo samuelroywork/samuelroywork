@@ -55,7 +55,7 @@
     </tr>
    <tr>
       <td><a href="https://github.com/samuelroywork/DataScience-UTD"><b> Data Science Project@UTDallas</b></a></td>
-      <td> A jupyter notebook with data Science techniques applied on two data sets.</td>
+      <td> A jupyter notebook with data science and analytics techniques applied on two data sets.</td>
       <td>Python</td>
       <td></td>
       <td><a href=""><b></b></td>
