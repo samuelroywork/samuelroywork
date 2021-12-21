@@ -1,24 +1,20 @@
 <p align="center">
- <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img width=”200" height=”200"  src=”https://user-images.githubusercontent.com/45981160/146879232-56e9d457-585b-4613-8c5c-58a4860e7750.png" alt=”my banner”></a>
+  <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img width=”200" height=”200" src="https://user-images.githubusercontent.com/45981160/146882987-964db28b-30d5-4536-b0d5-b67d9952213f.png" alt="my banner"></a>
 </p>
 
 
-
-                                                                                                                
-# Hello 👋, I'm Samuel Roy
+# Hi there👋, I'm Samuel Roy
 
 - Technology Enthusiast living in Aachen, Germany.
-- I’m interested in Blockchain technologies, Digitalization and Indstry 4.0
+- I’m interested in Blockchain technologies,Digitalization and Indstry 4.0
 - M.Sc. in Software Systems Engineering from RWTH Aachen University.
 - I am an engineer with the passion to find solutions to problems and to achieve perfection in everthing I do. 
 - 2022 Goals: To contribute to opens source projects 
 - Fun fact: I love to play piano and guitar
 
 ## Connect with me:
-[<img align="left" alt="website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="samuelroywork | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
-
 
 <br />
 
@@ -73,11 +69,10 @@
 
 [linkedin]: https://linkedin.com/in/samuel-roy-b10252192
 [github]: https://github.com/samuelroywork/samuelroywork
-[website]:https://samuelroywork.github.io/
+
 
 ## Languages and Tools:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelroywork&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+<img src="https://docs.soliditylang.org/en/v0.8.7/_images/logo.svg" alt="Solidity logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Solidity logo" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Solidity logo" width="50" height="50">
 
 
 <!---
