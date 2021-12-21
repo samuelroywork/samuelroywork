@@ -53,6 +53,13 @@
       <td></td>
        <td><a href=""><b></b></td>
     </tr>
+   <tr>
+      <td><a href="https://github.com/samuelroywork/DataScience-UTD"><b> Data Science Project</b></a></td>
+      <td> A jupyter notebook with data Science techniques applied on two data sets.</td>
+      <td>Python</td>
+      <td></td>
+      <td><a href=""><b></b></td>
+    </tr>
     <tr>
       <td><a href="https://github.com/samuelroywork/DPLL-SAT-solver"><b> DPLL SAT solver</b></a></td>
       <td> A SAT solver for propositional logic by following the DPLL architecture. </td>
@@ -60,13 +67,7 @@
       <td></td>
       <td><a href=""><b></b></td>
      </tr>
-    <tr>
-      <td><a href="https://github.com/samuelroywork/DataScience-UTD"><b> Data Science Project</b></a></td>
-      <td> A jupyter notebook with data Science techniques applied on two data sets.</td>
-      <td>Python</td>
-      <td></td>
-      <td><a href=""><b></b></td>
-    
+   
   </tbody>
 </table>
 </center>
