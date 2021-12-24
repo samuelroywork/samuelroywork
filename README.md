@@ -38,14 +38,7 @@
       <td><a href="https://www.youtube.com/watch?v=FgfQ_ImdZ9o"><b>-Video Demonstration</b></td>
       <td><a href="https://cold-bush-9716.on.fleek.co/"><b>IPFS hosted link</b></td>
     </tr>
-    <tr>
-      <td><a href=""><b> NFT Marketplace</b></a></td>
-      <td> An NFT market place </td>
-      <td>Ethereum, React, Node.js, Truffle framework, web3.js</td>
-      <td></td>
-      <td><a href=""><b></b></td>
-     </tr>
-    <tr>
+   
       <td><a href="https://github.com/samuelroywork/Chain-Rocket.Chat"><b>Chain-Rocket.Chat</b></a></td>
       <td>Storing RocketChat messages on Blockchain</td>
       <td>Quoroum, web3.js, Docker</td>
@@ -53,13 +46,7 @@
        <td><a href=""><b></b></td>
     </tr>
     </tr>
-     <tr>
-      <td><a href=""><b> Poly-Drive</b></a></td>
-      <td> A web 3.0 online drive to store documents using blockchain</td>
-      <td>Polygon, React, Node.js, Truffle framework, web3.js </td>
-      <td></td>
-       <td><a href=""><b></b></td>
-    </tr>
+   
    <tr>
       <td><a href="https://github.com/samuelroywork/DataScience-UTD"><b> Data Science Project@UTDallas</b></a></td>
       <td> A jupyter notebook with data science and analytics techniques applied on two data sets.</td>
