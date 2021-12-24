@@ -38,15 +38,15 @@
       <td><a href="https://www.youtube.com/watch?v=FgfQ_ImdZ9o"><b>-Video Demonstration</b></td>
       <td><a href="https://cold-bush-9716.on.fleek.co/"><b>IPFS hosted link</b></td>
     </tr>
-    <tr>
    
+    <tr>
       <td><a href="https://github.com/samuelroywork/Chain-Rocket.Chat"><b>Chain-Rocket.Chat</b></a></td>
       <td>Storing RocketChat messages on Blockchain</td>
       <td>Quoroum, web3.js, Docker</td>
       <td><a href="https://github.com/samuelroywork/Chain-Rocket.Chat/blob/main/architecture.PNG"><b>Screenshots</b></td>
        <td><a href=""><b></b></td>
     </tr>
-    </tr>
+    
    
    <tr>
       <td><a href="https://github.com/samuelroywork/DataScience-UTD"><b> Data Science Project@UTDallas</b></a></td>
