@@ -8,7 +8,7 @@
 
 - 🎓 **Educational Background**: M.Sc. grad from RWTH Aachen University; a software engineer by training and fueled by a passion for problem-solver – if there's a glitch, I've got the fix!.
 
-- 👨‍💻 **Frameworks and Skills**: I am a backend developer proficient in Python (Flask, FastAPI) and JavaScript(Node.js (Express.js), Next.js). Worked with Hyperledger Fabric, Ethereum, Corda, Polygon, Quoroum| L-2: Chainlink| AWS, Docker, Kubernetes   
+- 👨‍💻 **Frameworks and Skills**: I am a Backend developer proficient in Python (Flask, FastAPI) and JavaScript(Node.js (Express.js), Next.js). Worked with Hyperledger Fabric, Ethereum, Corda, Polygon, Quoroum| L-2: Chainlink| AWS, Docker, Kubernetes   
 
 - 🎯 **2024 Objectives**: Establish a footprint in the open-source community & dive deep into cutting-edge AI innovations.
 
