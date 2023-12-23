@@ -40,7 +40,6 @@
     </tr>
   </thead>
   <tbody>
-     
      <tr>
       <td><a href="https://github.com/samuelroywork/Master-thesis-implementation"><b>Master Thesis Implementation</b></a></td>
       <td>Decentralized Application that tracks carbon footprint across automotive supply chain and payment of carbon price using blockchain </td>
@@ -76,9 +75,6 @@
       <td></td>
       <td><a href=""><b></b></td>
      </tr>
-       
-     
-   
   </tbody>
 </table>
 </center>
