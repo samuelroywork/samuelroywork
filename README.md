@@ -77,7 +77,7 @@
 
 [linkedin]: https://linkedin.com/in/samuel-roy-b10252192
 [github]: https://github.com/samuelroywork
-[website]:https://samuelroywork.github.io/
+[website]:https://samuelroywork.github.io
 
 
 ## Git-stats:
