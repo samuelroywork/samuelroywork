@@ -55,7 +55,7 @@
       <td><a href=""><b></b></td>
     </tr>
         <tr>
-      <td><a href="https://github.com/samuelroywork/Conformance-Checking"><b> Conformance-Checking</b></a></td>
+      <td><a href="https://github.com/samuelroywork/Conformance-Checking"><b> Conformance-Checking lab work</b></a></td>
       <td> Decomposing/Recomposing Alignments in the PM4Py Distributed Engine </td>
       <td>Python</td>
       <td></td>
