@@ -40,6 +40,7 @@
     </tr>
   </thead>
   <tbody>
+     
      <tr>
       <td><a href="https://github.com/samuelroywork/Master-thesis-implementation"><b>Master Thesis Implementation</b></a></td>
       <td>Decentralized Application that tracks carbon footprint across automotive supply chain and payment of carbon price using blockchain </td>
@@ -54,6 +55,13 @@
       <td></td>
       <td><a href=""><b></b></td>
     </tr>
+        <tr>
+      <td><a href="https://github.com/samuelroywork/Conformance-Checking"><b> Conformance-Checking</b></a></td>
+      <td> Decomposing/Recomposing Alignments in the PM4Py Distributed Engine </td>
+      <td>Python</td>
+      <td></td>
+      <td><a href=""><b></b></td>
+  </tr>
     <tr>
       <td><a href="https://github.com/samuelroywork/DPLL-SAT-solver"><b> DPLL SAT solver</b></a></td>
       <td> A SAT solver for propositional logic by following the DPLL architecture. </td>
@@ -68,6 +76,8 @@
       <td></td>
       <td><a href=""><b></b></td>
      </tr>
+       
+     
    
   </tbody>
 </table>
