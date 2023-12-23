@@ -8,12 +8,9 @@
 
 - 🎓 **Educational Background**: M.Sc. grad from RWTH Aachen University; a software engineer by training and fueled by a passion for problem-solver – if there's a glitch, I've got the fix!. 
 
-- 🎯 **2024 Objectives**:
-  - Establish a footprint in the open-source community.
-  - Eager to collaborate, innovate, and elevate the tech landscape.
-  - Dive deep into cutting-edge AI innovations.
+- 🎯 **2024 Objectives**: Establish a footprint in the open-source community & dive deep into cutting-edge AI innovations.
 
--🎵 **Bonus**: Piano or guitar? Depends on the debugging mood! 🎸🎹 Stay tuned!
+- 🎵 **Bonus**: Piano or guitar? Depends on the debugging mood! 🎸🎹 Stay tuned!
 
 <br />
 
