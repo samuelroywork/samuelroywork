@@ -88,6 +88,7 @@
 ## Git-stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelroywork&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+## Personal projects:
 
 <!---
 samuelroywork/samuelroywork is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
