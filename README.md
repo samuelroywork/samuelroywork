@@ -6,7 +6,7 @@
 
 - 🚀 **Tech Enthusiast**: Based in Hamburg, diving deep into the blockchain cosmos, digital transformations, and the magic of Industry 4.0, Metaverse! 🌌
 
-- 🎓 **Educational Background**: M.Sc. grad from RWTH Aachen University; a software engineer by training and fueled by a passion for problem-solver – if there's a glitch, I've got the fix!.
+- 🎓 **Educational Background**: M.Sc. grad from RWTH Aachen University; a software engineer by training and fueled by a passion for problem-solving – if there's a glitch, I've got the fix!.
 
 - 👨‍💻 **Frameworks and Skills**: I am a Backend developer proficient in Python (Flask, FastAPI) and JavaScript(Node.js (Express.js), Next.js). Worked with Hyperledger Fabric, Ethereum, Corda, Polygon, Quoroum| L-2: Chainlink| Eclipse Data Space Connector| IPFS |  AWS, Docker, Kubernetes   
 
