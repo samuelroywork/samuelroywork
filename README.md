@@ -4,7 +4,7 @@
 
 # About me
 
-- 🚀 **Tech Enthusiast**: Based in Hamburg, diving deep into the blockchain cosmos, digital transformations, and the magic of Industry 4.0, Metaverse! 🌌
+- 🚀 **Tech Enthusiast**: Based in Hamburg, diving deep into the blockchain, digital transformations, Industry 4.0 and Metaverse! 🌌
 
 - 🎓 **Educational Background**: M.Sc. grad from RWTH Aachen University; a software engineer by training and fueled by a passion for problem-solving – if there's a glitch, I've got the fix!.
 
@@ -12,7 +12,7 @@
 
 - 🌈 **Interests**: Web3.0, Decentralised Identities(SSI), DeFi, NFTs, L2 Solutions, DAOs, Metaverse  
   
-- 🎯 **2024 Objectives**: Establish a footprint in the open-source community & dive deep into cutting-edge AI innovations.
+- 🎯 **2025 Objectives**: Establish a footprint in the open-source community & dive deep into cutting-edge AI innovations.
 
 - 🎵 **Bonus**: Piano or guitar? Depends on the debugging mood! 🎸🎹 Stay tuned!
 
