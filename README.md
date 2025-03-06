@@ -1,26 +1,27 @@
 [![Untitled](https://github.com/samuelroywork/samuelroywork/blob/main/github-header-image.png)][website]
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
-
 # About me
 
-- 🚀 **Tech Enthusiast**: Based in Hamburg, diving deep into the blockchain, digital transformations, Industry 4.0 and Metaverse! 🌌
+- 🚀 **WhoAmI?**: I am a Computer Engineer, based in Hamburg, with expertise into the Cloud and Data Engineering along with experience in decentralised platforms (eg.Blockchain, DLT)! 🌌
 
-- 🎓 **Educational Background**: M.Sc. grad from RWTH Aachen University; a software engineer by training and fueled by a passion for problem-solving – if there's a glitch, I've got the fix!.
+- 🖥️ **Work**:I am current working as a Software Consultant at *[Capgemini](https://www.capgemini.com/)*, I am also a **Contributer** of [Eclipse Tractus-X](https://github.com/eclipse-tractusx)!
+
+- 🎓 **Educational Background**: M.Sc. from RWTH Aachen University; a software engineer by training and with a passion for problem-solving.
 
 - 👨‍💻 **Frameworks and Skills**: I am a Backend developer proficient in Python (Flask, FastAPI) and JavaScript(Node.js (Express.js), Next.js). Worked with Hyperledger Fabric, Ethereum, Corda, Polygon, Quoroum| L-2: Chainlink| Eclipse Data Space Connector| IPFS |  AWS, Docker, Kubernetes   
 
-- 🌈 **Interests**: Web3.0, Decentralised Identities(SSI), DeFi, NFTs, L2 Solutions, DAOs, Metaverse  
+- 🌈 **Interests**: Sotware Engineering, Sotware Architect, Cloud(AWS), DLT, Web3.0, Decentralised Identities  
   
-- 🎯 **2025 Objectives**: Establish a footprint in the open-source community & dive deep into cutting-edge AI innovations.
+- 🎯 **2025 Objectives**: Establish a footprint in the open-source community & dive deep into cutting-edge tech and innovations.
 
 - 🎵 **Bonus**: Piano or guitar? Depends on the debugging mood! 🎸🎹 Stay tuned!
 
 
 ## Connect with me:
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
+<pre>
+    - Work Email: <a href="mailto:samuel.roy@capgemini.com">samuel.roy@capgemini.com</a>
+    - Personal Email: <a href="mailto:samuelroy.work@gmail.com">samuelroy.work@gmail.com</a>
+</pre>
 
 
 <br />
