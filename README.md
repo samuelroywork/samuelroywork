@@ -4,17 +4,17 @@
 
 - 🚀 **WhoAmI?**: I am a Computer Engineer, based in Hamburg, with expertise into the Cloud and Data Engineering along with experience in decentralised platforms (eg.Blockchain, DLT)! 🌌
 
-- 🖥️ **Work**:I am current working as a Software Consultant at *[Capgemini](https://www.capgemini.com/)*, I am also a **Contributer** of [Eclipse Tractus-X](https://github.com/eclipse-tractusx)!
+- 🖥️ **Work**: I am current working as a Software Consultant at *[Capgemini](https://www.capgemini.com/)* and I am also a **Contributer** in open source project [Eclipse Tractus-X](https://github.com/eclipse-tractusx)!
 
 - 🎓 **Educational Background**: M.Sc. from RWTH Aachen University; a software engineer by training and with a passion for problem-solving.
 
 - 👨‍💻 **Frameworks and Skills**: I am a Backend developer proficient in Python (Flask, FastAPI) and JavaScript(Node.js (Express.js), Next.js). Worked with Hyperledger Fabric, Ethereum, Corda, Polygon, Quoroum| L-2: Chainlink| Eclipse Data Space Connector| IPFS |  AWS, Docker, Kubernetes   
 
-- 🌈 **Interests**: Sotware Engineering, Sotware Architect, Cloud(AWS), DLT, Web3.0, Decentralised Identities  
+- 🌈 **Interests**: Sotware Engineering, Sotware Architecture, Cloud(AWS), Data Engineering, Dataspaces, DLT, Web3.0, Decentralised Identities, 
   
 - 🎯 **2025 Objectives**: Establish a footprint in the open-source community & dive deep into cutting-edge tech and innovations.
 
-- 🎵 **Bonus**: Piano or guitar? Depends on the debugging mood! 🎸🎹 Stay tuned!
+- 🎵 **Bonus**: Piano or guitar? 🎸🎹 Stay tuned!
 
 
 ## Connect with me:
