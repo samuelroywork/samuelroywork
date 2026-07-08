@@ -1,4 +1,3 @@
-```markdown
 [![Untitled](https://github.com/samuelroywork/samuelroywork/blob/main/github-header-image.png)][website]
 
 # Hi, I’m Samuel Roy 👋
@@ -131,4 +130,3 @@ Still deciding — but always building, learning, and improving.
 samuelroywork/samuelroywork is a ✨ special ✨ repository because its README.md appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-```
