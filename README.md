@@ -50,10 +50,6 @@ I combine technical delivery with a calm, structured, and ownership-driven worki
 
 `Java` · `Spring Boot` · `Spring Cloud` · `Spring Security` · `Spring Data` · `Spring Batch` · `Spring WebFlux` · `Maven` · `REST APIs`
 
-### Frontend & Full-Stack
-
-`TypeScript` · `Angular` · `React.js` · `Next.js` · `Node.js` · `Express.js`
-
 ### Data, Messaging & Integration
 
 `Kafka Streams` · `RabbitMQ` · `PostgreSQL` · `Elasticsearch` · `Cucumber`
