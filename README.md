@@ -4,7 +4,7 @@
 
 ### Cloud-Native Software Consultant | Backend & Platform Engineering | DevOps | Data Spaces | Web3
 
-I am a Computer Engineer based in Hamburg, Germany, currently working as a **Software Consultant at [Capgemini](https://www.capgemini.com/)**.
+I am a Software Engieer based in Hamburg, Germany, currently working as a **Software Consultant at [Capgemini](https://www.capgemini.com/)**.
 
 My work focuses on building reliable, scalable, and production-ready software systems across **cloud-native platforms, backend engineering, DevOps automation, data spaces, and decentralized technologies**.
 
