@@ -20,7 +20,7 @@ I have experience as a **Backend Engineer on the Equigy Crowd Balancing Platform
 - 🌍 **Open Source & Data Spaces**: Contributor to **Eclipse Tractus-X**, **Railway-X**, and **Aerospace-X**, supporting interoperable, sovereign, and industry-grade data ecosystems.
 - 🎓 **Education**: M.Sc. from **RWTH Aachen University**, with a strong foundation in software engineering, distributed systems, and problem-solving.
 - ⚙️ **Core Strength**: Turning complex technical requirements into structured, maintainable, and production-oriented solutions.
-- 🎯 **2026 Objective**: Grow as a senior cloud-native consultant by deepening expertise in Kubernetes, Terraform, AWS, platform engineering, Agentic AI.
+- 🎯 **2026 Objective**: Grow as a senior cloud-native consultant by deepening expertise in Kubernetes, Terraform, AWS, platform engineering and Agentic AI.
 
 ---
 
